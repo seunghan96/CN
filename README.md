@@ -1,6 +1,6 @@
 # Channel Normalization for Time Series Channel Identification
 
-### Seunghan Lee, Taeyoung Park$^{*}$, Kibok Lee$^{*}$
+### Seunghan Lee, Taeyoung Park*, Kibok Lee*
 
 (*: Equal advising)
 
