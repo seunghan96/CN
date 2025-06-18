@@ -6,7 +6,7 @@
 
 <br>
 
-This repository contains the official implementation for the paper [Channel Normalization for Time Series Channel Identification]([link here]) 
+This repository contains the official implementation for the paper [Channel Normalization for Time Series Channel Identification]([[link here](https://arxiv.org/pdf/2506.00432)]) 
 
 This work is accepted in **ICML 2025**
 
